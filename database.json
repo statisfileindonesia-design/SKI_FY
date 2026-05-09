@@ -2,8 +2,15 @@
   "schema": "2.0",
   "encrypted": true,
   "genre": "SKI_FY",
-  "total": 0,
-  "data": [],
-  "lastSync": "2026-05-03T06:40:35.406Z",
-  "note": "Genre ini masih kosong, isi di Google Sheet"
+  "total": 1,
+  "data": [
+    {
+      "NAMAE": "YHR3enBrdn4=",
+      "COVER": "WkFEREIDFhpbWFFTVEoLG1tYV1ZeQRdWXVgfDAgWAQwdB1MDaFoMAQZqXxpBV14=",
+      "SINOPSIS": "WkFEREIDFhpbWFFTVEoLG1tYV1ZeQRdWXVgfVQMWCAQdY15DB219YkBqXxpBV14=",
+      "LINK": "AwUFAAMIAAQHAQQNBwo="
+    }
+  ],
+  "lastSync": "2026-05-09T22:47:07.383Z",
+  "note": ""
 }
